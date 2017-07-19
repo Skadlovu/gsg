@@ -1,0 +1,16 @@
+http://104.236.40.148/
+http://104.236.40.148/patrol-setup
+
+
+
+
+Passwords
+guard-app: (1, 1234)
+supervisor-app (1, 1234)
+
+
+Justin Clarke
+M; +27 83 251 4944
+M; +27 83 251 4944
+justin@privateproperty.co.za
+Address: Level 1, 21 Richefond Circle, Ridgeside Office Park, Umhlanga, 4319
