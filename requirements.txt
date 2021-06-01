@@ -5,5 +5,5 @@ idna==2.5
 mysql-connector-python==2.1.6
 pipreqs==0.4.9
 requests==2.18.1
-urllib3==1.21.1
+urllib3==1.26.5
 yarg==0.1.9
